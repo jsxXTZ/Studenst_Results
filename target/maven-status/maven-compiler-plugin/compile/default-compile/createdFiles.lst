@@ -1,0 +1,10 @@
+com/management/system/student_results/StudentResultsApplication$1.class
+com/management/system/student_results/resources/StudentResource.class
+com/management/system/student_results/StudentResultsApplication.class
+com/management/system/student_results/SecurityConfig.class
+com/management/system/student_results/student/Student.class
+com/management/system/student_results/repository/StudentRepository.class
+com/management/system/student_results/service/CourseService.class
+com/management/system/student_results/service/AddNewStudentService.class
+com/management/system/student_results/StudentController.class
+com/management/system/student_results/resources/CourseResource.class
